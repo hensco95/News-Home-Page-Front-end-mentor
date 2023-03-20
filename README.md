@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://news-home-page-frontendmentor.netlify.app/)
+- Live Site URL: [live site url](https://news-home-page-frontendmentor.netlify.app/)
 
 ## My process
 
