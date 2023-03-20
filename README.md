@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Front end mentor solution](https://www.frontendmentor.io/solutions/news-homepage-using-responsive-css-and-javascript-cQfDFinCeO)
 - Live Site URL: [live site url](https://news-home-page-frontendmentor.netlify.app/)
 
 ## My process
